@@ -1,0 +1,4 @@
+(
+  title: "rustamethyst",
+  dimensions: Some((500, 500)),
+)
